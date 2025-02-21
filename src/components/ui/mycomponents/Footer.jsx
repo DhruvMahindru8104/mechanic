@@ -34,7 +34,7 @@ return (
             <div className="md:flex-1">
                 <Link href="#">
                     <span className="text-transparent bg-clip-text bg-gradient-to-tr from-blue-800 to-indigo-400 font-bold text-2xl">U</span>
-                    Unify-Ui
+                    Sareen Motors
                 </Link>
             </div>
             <nav>
