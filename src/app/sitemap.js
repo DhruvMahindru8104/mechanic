@@ -1,6 +1,6 @@
 
 export default function sitemap(){
-  const baseUrl = 'https://mechanic-met8wxvmz-dhruv-mahindrus-projects.vercel.app'; // Change this to your actual domain
+  const baseUrl = 'https://mechanic-three.vercel.app'; // Change this to your actual domain
 
   return [
     { url: `${baseUrl}/`, lastModified: new Date().toISOString() },
