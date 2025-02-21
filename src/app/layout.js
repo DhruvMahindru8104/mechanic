@@ -25,7 +25,7 @@ export const metadata = {
     siteName: "Car Mechanic",
     images: [
       {
-        url: "https://yourwebsite.com/heromechanic.jpg", // Replace with your image URL
+        url: "https://mechanic-met8wxvmz-dhruv-mahindrus-projects.vercel.app/heromechanic.jpg", // Replace with your image URL
         width: 1200,
         height: 630,
         alt: "Car Mechanic Shop",
