@@ -21,11 +21,11 @@ export const metadata = {
   openGraph: {
     title: "Best Car Mechanic Services - Amritsar",
     description: "Expert car repair and maintenance services for all makes and models.",
-    url: "https://mechanic-met8wxvmz-dhruv-mahindrus-projects.vercel.app", // Replace
+    url: "https://mechanic-three.vercel.app", // Replace
     siteName: "Car Mechanic",
     images: [
       {
-        url: "https://mechanic-met8wxvmz-dhruv-mahindrus-projects.vercel.app/heromechanic.jpg", // Replace with your image URL
+        url: "https://mechanic-three.vercel.app/heromechanic.jpg", // Replace with your image URL
         width: 1200,
         height: 630,
         alt: "Car Mechanic Shop",
