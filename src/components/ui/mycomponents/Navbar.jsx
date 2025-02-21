@@ -51,7 +51,7 @@ function Navbar() {
   <AvatarImage src="https://github.com/shadcn.png" className='object-cover' />
   <AvatarFallback>CN</AvatarFallback>
 </Avatar>
-<span className='text-sm md:text-xl font-semibold '>CompanyName</span>
+<span className='text-sm md:text-xl font-semibold '>SareenMotors</span>
 </div>
 {/*  logo area end */}
 
